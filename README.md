@@ -25,12 +25,14 @@ Knowledge applied: labels on audio data with segment of time, GRU, 1D conv layer
 	- [Machine-translation-with-attention-model](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Machine_translation_with_NN_attention_model.ipynb): Translate human readable date to machine readable date
 Knowledge applied: attention mechanism, pre-/post-attention Bi-LSTM, visualization of attention map
 
-	- [Improvise Jazz Solo with LSTM](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Machine_translation_with_NN_attention_model.ipynb): Generate my own jazz music with deep learning
+	- [Improvise Jazz Solo with LSTM](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb): Generate my own jazz music with deep learning
 Reference: Ji-Sung Kim, 2016 (https://github.com/jisungk/deepjazz)
 Knowledge applied: LSTM
 
-- #### Other types of sequencial data - audio
+	- [word analogy with word vector](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Solving_word_analogy_with_word_vector.ipynb): solve word analogy problems (comparison of word meaning)
+Reference: Bolukbasi et al., 2016 (https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) 
+Knowledge applied: cosine similarity, GloVe word embedding, debiasing algorithm
 
-	- [Neural-style-transfer_Art-generation](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Neural_Style_Transfer_Art_Generation_.ipynb): Using the drawing style of an art piece as a reference, transfer the drawing style (a layer in the DNN) to a brand new image. 
-Reference paper: Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).
-Knowledge applied: VGG-19, content cost, style cost
+	- [Emojify](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Emojify.ipynb): suggest a suitable emoji depending on the meaning of sentence
+Reference: Woebot team (http://woebot.io)
+Knowledge applied: Embedding layer, LSTM
