@@ -2,6 +2,17 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 ## Contents
+### My ML projects
+
+	- [Google Landmark Recognition 2019](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Google%20Landmark%20Recognition%20Competition%202019): To train a landmark recognition model with a training set of 5M images and 200K labels
+Knowledge applied: GCP, data cleaning, image resizing, multi-processing, Resnet, analysis for separation of validation set
+
+	- [Prediction of survival rate in Titanic disaster](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Prediction%20of%20Survival%20Rate%20in%20Titanic%20Disaster): To predict the survival rate of a person based on various tabular data, such as price of ticket, cabin, family size, etc. Two models were applied to decide which one has a higher accuracy, neural network model or stacked model using tranditional ML methods such as Random Forest, SVM, etc
+Knowledge applied: data cleaning, feature engineering, stacking models with random forest, extra trees, AdaBoost, Gradient Boosting and SVM
+
+	- [Web application of cat species classification](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Web%20Application%20of%20Cat%20Species%20Classification): Build a web application to classify an image and determine which kind of cat species it is. 
+Knowledge applied: data scraping from different websites, web application, resnet
+
 ### My self-learning tasks
 - #### Computer vision
 
