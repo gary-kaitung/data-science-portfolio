@@ -32,7 +32,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - #### Natural Language Processing
 
 	- [Trigger-word-detection-for-chatbot](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Trigger_word_detection_for_chatbot.ipynb): train a model to detect trigger word for activating the chatbot, for example, 'OK google'
-		- Knowledge applied: labels on audio data with segment of time, GRU, 1D conv layer (extracting low-level features) 
+		- Knowledge applied: GRU, 1D conv layer (extracting low-level features) 
 
 	- [Machine-translation-with-attention-model](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Machine_translation_with_NN_attention_model.ipynb): Translate human readable date to machine readable date
 		- Knowledge applied: attention mechanism, pre-/post-attention Bi-LSTM, visualization of attention map
@@ -43,7 +43,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [word analogy with word vector](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Solving_word_analogy_with_word_vector.ipynb): solve word analogy problems (comparison of word meaning)
 		- Reference: Bolukbasi et al., 2016 (https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) 
-		- Knowledge applied: cosine similarity, GloVe word embedding, debiasing algorithm
+		- Knowledge applied: cosine similarity, GloVe word embedding, Word2Vec, debiasing algorithm
 
 	- [Emojify](https://github.com/gary-kaitung/data-science-portfolio/blob/master/My%20self-learning%20tasks/Emojify.ipynb): suggest a suitable emoji depending on the meaning of sentence
 		- Reference: Woebot team (http://woebot.io)
