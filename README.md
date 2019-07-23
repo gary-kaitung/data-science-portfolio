@@ -3,7 +3,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 ### My ML projects
-
+- #### Personal projects
+	
 	- [Google Landmark Recognition 2019](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Google%20Landmark%20Recognition%20Competition%202019): To train a landmark recognition model with a training set of 5M images and 200K labels
 Knowledge applied: GCP, data cleaning, image resizing, multi-processing, Resnet, analysis for separation of validation set
 
