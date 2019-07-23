@@ -1,4 +1,4 @@
-#Stanford machine learning courses
+# Stanford machine learning courses
 This repo contains the solutions to Stanford Machine Learning Class. Please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Stanford Honer Code" below.
 
 ## Octave
