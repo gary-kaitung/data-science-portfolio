@@ -18,4 +18,4 @@ Two modelling approaches were applied on  training and predictions
 The rank is on the top 10% among 10945 teams on the leaderboard
 (credit to Anistropic)
 
-![kaggle titanic disaster prediction] (https://www.google.com/search?q=kaggle+titanic&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjm5JjCycrjAhXVvZ4KHSvyBBcQ_AUIEigC&biw=1280&bih=578#imgrc=7HvAbjLAv4SgUM)
+![kaggle titanic disaster prediction] (https://miro.medium.com/max/930/1*dwkupPHPMHWLvSIgrbMqNA.jpeg)
