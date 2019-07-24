@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ### My ML projects
 - #### Personal projects
 	
-	- [Google Landmark Recognition 2019](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Google%20Landmark%20Recognition%20Competition%202019): To train a landmark recognition model with a training set of 5M images and 200K labels
+	- [Google Landmark Recognition 2019](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Google%20Landmark%20Recognition%20Competition%202019): To train a landmark recognition model with a training set of 5M images and 200K labels. Scored top 30% out of all global teams
 
 	- [Prediction of survival rate in Titanic disaster](https://github.com/gary-kaitung/data-science-portfolio/tree/master/My%20ML%20projects/Prediction%20of%20Survival%20Rate%20in%20Titanic%20Disaster): To predict the survival rate of a person based on various tabular data, such as price of ticket, cabin, family size, etc. Two models were applied to decide which one has a higher accuracy, neural network model or stacked model using tranditional ML methods such as Random Forest, SVM, etc
 
